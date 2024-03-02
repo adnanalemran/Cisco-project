@@ -3,7 +3,7 @@ const Home = () => {
     console.log('hello')
     return (
         <div >
-            home page
+           Redux init okk
         </div>
     );
 };
