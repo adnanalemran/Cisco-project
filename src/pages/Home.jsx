@@ -1,7 +1,8 @@
  
 const Home = () => {
+    console.log('hello')
     return (
-        <div>
+        <div >
             home page
         </div>
     );

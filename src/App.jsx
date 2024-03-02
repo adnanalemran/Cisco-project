@@ -4,13 +4,8 @@ function App() {
   return (
     <>
     <Home/>
-      fer
-
-      {/* flow 
-      
-      
-      
-      */}
+ 
+ 
     </>
   );
 }
